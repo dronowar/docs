@@ -1,2 +1,101 @@
 # Поля формы
 
+### Text
+```php
+AdminFormElement::text()
+```
+
+### Password
+```php
+AdminFormElement::password()
+```
+
+### Hidden
+```php
+AdminFormElement::hidden()
+```
+
+### Email
+```php
+AdminFormElement::email()
+```
+
+### Date
+```php
+AdminFormElement::date()
+```
+
+### Datetime
+```php
+AdminFormElement::datetime()
+```
+
+### Timestamp
+```php
+AdminFormElement::timestamp()
+```
+
+### Time
+```php
+AdminFormElement::time()
+```
+
+### File
+```php
+AdminFormElement::file()
+```
+
+### Textarea
+```php
+AdminFormElement::textarea()
+```
+
+### Select
+```php
+AdminFormElement::select()
+```
+
+### MultiSelect
+```php
+AdminFormElement::multiSelect()
+```
+
+### Wysiwyg
+```php
+AdminFormElement::wysiwyg()
+```
+
+### Ckeditor
+```php
+AdminFormElement::ckeditor()
+```
+
+### Checkbox
+```php
+AdminFormElement::checkbox()
+```
+
+### Radio
+```php
+AdminFormElement::radio()
+```
+
+### Images
+```php
+AdminFormElement::images()
+```
+
+### Image
+```php
+AdminFormElement::image()
+```
+
+### Html
+```php
+AdminFormElement::html()
+```
+
+### Custom
+```php
+AdminFormElement::custom()
+```
