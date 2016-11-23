@@ -21,6 +21,7 @@
     - [Столбцы](columns)
     - [Фильтры столбцов](columnfilters)
     - [Формы](form)
+    - [Поля формы](form-elements)
     - [Виджеты](widgets)
     - [HTML атрибуты](html_attributes)
 - Прочее
